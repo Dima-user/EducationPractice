@@ -4,10 +4,10 @@ D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPracti
 D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_02\bin\Debug\netcoreapp3.1\KDL_Task_02.runtimeconfig.dev.json
 D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_02\bin\Debug\netcoreapp3.1\KDL_Task_02.dll
 D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_02\bin\Debug\netcoreapp3.1\KDL_Task_02.pdb
-D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_02\obj\Debug\netcoreapp3.1\KDL_Task_02.csprojAssemblyReference.cache
 D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_02\obj\Debug\netcoreapp3.1\KDL_Task_02.AssemblyInfoInputs.cache
 D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_02\obj\Debug\netcoreapp3.1\KDL_Task_02.AssemblyInfo.cs
 D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_02\obj\Debug\netcoreapp3.1\KDL_Task_02.csproj.CoreCompileInputs.cache
 D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_02\obj\Debug\netcoreapp3.1\KDL_Task_02.dll
 D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_02\obj\Debug\netcoreapp3.1\KDL_Task_02.pdb
 D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_02\obj\Debug\netcoreapp3.1\KDL_Task_02.genruntimeconfig.cache
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_02\obj\Debug\netcoreapp3.1\KDL_Task_02.csprojAssemblyReference.cache
