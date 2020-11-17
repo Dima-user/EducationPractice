@@ -6,13 +6,13 @@ namespace KDL_Task_04
     {
         static void Main(string[] args)
         {
-            Player p = new Player();
-            Enemy e = new Enemy();
-            p.CastingSpell();
-            while (true)
+            Player person = new Player();
+            Enemy enemy = new Enemy();
+            person.CastingSpell();
+            while (((IGamePerson)person).HealphPoints > 0 && ((IGamePerson)enemy).HealphPoints > 0)
             {
-               p.Move(e);
-               e.Move(p);
+               person.Move(enemy);
+               enemy.Move(person);
             }
         }
     }
