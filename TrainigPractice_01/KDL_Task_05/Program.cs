@@ -35,7 +35,8 @@ namespace KDL_Task_05
                     Player.Cordinate = Player.MoveLeft();
                 }
             }
-            ReaderFile.Draw(Player.Cordinate, Player.MoveRight(), @"Map.txt");
+            Console.Clear();
+            ReaderFile.Draw(Player.Cordinate, Player.Cordinate, @"Map.txt");
             Console.WriteLine("Вы прошли");
         }
     }
