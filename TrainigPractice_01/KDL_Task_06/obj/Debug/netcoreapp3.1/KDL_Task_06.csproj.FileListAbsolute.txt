@@ -1,0 +1,13 @@
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\bin\Debug\netcoreapp3.1\KDL_Task_06.exe
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\bin\Debug\netcoreapp3.1\KDL_Task_06.deps.json
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\bin\Debug\netcoreapp3.1\KDL_Task_06.runtimeconfig.json
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\bin\Debug\netcoreapp3.1\KDL_Task_06.runtimeconfig.dev.json
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\bin\Debug\netcoreapp3.1\KDL_Task_06.dll
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\bin\Debug\netcoreapp3.1\KDL_Task_06.pdb
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\obj\Debug\netcoreapp3.1\KDL_Task_06.csprojAssemblyReference.cache
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\obj\Debug\netcoreapp3.1\KDL_Task_06.AssemblyInfoInputs.cache
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\obj\Debug\netcoreapp3.1\KDL_Task_06.AssemblyInfo.cs
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\obj\Debug\netcoreapp3.1\KDL_Task_06.csproj.CoreCompileInputs.cache
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\obj\Debug\netcoreapp3.1\KDL_Task_06.dll
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\obj\Debug\netcoreapp3.1\KDL_Task_06.pdb
+D:\колледж\3-4 курс\EducationPractice\EducationPractice\TrainigPractice_01\KDL_Task_06\obj\Debug\netcoreapp3.1\KDL_Task_06.genruntimeconfig.cache

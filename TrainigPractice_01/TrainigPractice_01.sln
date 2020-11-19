@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KDL_Task_03", "KDL_Task_03\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KDL_Task_04", "KDL_Task_04\KDL_Task_04.csproj", "{2BB31435-AAE6-4292-B955-CDDE097EEB09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDL_Task_05", "KDL_Task_05\KDL_Task_05.csproj", "{5B934FDB-A2AA-4839-8F2D-A8951A87A6ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KDL_Task_05", "KDL_Task_05\KDL_Task_05.csproj", "{5B934FDB-A2AA-4839-8F2D-A8951A87A6ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDL_Task_06", "KDL_Task_06\KDL_Task_06.csproj", "{26F9D295-5D93-47E2-8817-A8F7F9E3F76E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{5B934FDB-A2AA-4839-8F2D-A8951A87A6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B934FDB-A2AA-4839-8F2D-A8951A87A6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B934FDB-A2AA-4839-8F2D-A8951A87A6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F9D295-5D93-47E2-8817-A8F7F9E3F76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F9D295-5D93-47E2-8817-A8F7F9E3F76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F9D295-5D93-47E2-8817-A8F7F9E3F76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F9D295-5D93-47E2-8817-A8F7F9E3F76E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
