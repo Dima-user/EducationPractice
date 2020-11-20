@@ -42,6 +42,7 @@ namespace KDL_Task_07
 
         private void PrintDisplay()
         {
+            Console.WriteLine("\nПоменяный массив");
             for (int iterator = 0; iterator < massive.Length; iterator++)
             {
                 Console.Write("{0} ",massive[iterator]);
