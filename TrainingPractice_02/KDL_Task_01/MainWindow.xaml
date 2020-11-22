@@ -1,0 +1,35 @@
+﻿<Window x:Class="KDL_Task_01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KDL_Task_01"
+        mc:Ignorable="d"
+        x:Name="myWindow"
+        Title="Firm hand" Height="450" Width="650"
+        Loaded="WindowLoad">
+    <Window.Resources>
+        <ResourceDictionary Source="Resources.xaml"/>
+    </Window.Resources>
+
+    <Border Background="#f5f5dc">
+        <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Canvas Grid.Row="0" Grid.RowSpan ="2"  x:Name="myCanvas"/>
+            <StackPanel  Grid.Row="0" Grid.Column="1" >
+                <Button x:Name="myButton" Click="MyButtonClick" Style="{StaticResource RegBtn}"/>
+                <TextBlock x:Name="OutputTimeTextBlock" Width=" 200" FontSize="18" FontWeight="Bold" Margin="10,10,0,0"></TextBlock>
+            </StackPanel>
+            <TextBlock x:Name="RecordsTextBlock" Grid.Row="1" Grid.Column="1" FontSize="18" FontWeight="Bold" Margin="63,0,0,0" Text="Ваши прошлые результаты"/>
+        </Grid>
+    </Border>
+</Window>
